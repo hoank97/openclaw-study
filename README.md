@@ -6,6 +6,7 @@ Kho note học tập của Đại ca, được chia theo từng mảng để h�
 - `system-design/` — kiến trúc hệ thống, trade-off, pattern, interview notes
 - `dsa/` — cấu trúc dữ liệu và giải thuật
 - `ai/` — AI, machine learning, LLM, ứng dụng thực tế
+- `devops/` — Linux, cloud, CI/CD, containers, IaC, Kubernetes, vận hành hệ thống
 
 ## Gợi ý dùng repo
 - Mỗi topic là một file `.md`
